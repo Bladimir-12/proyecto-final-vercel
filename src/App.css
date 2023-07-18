@@ -1,0 +1,54 @@
+body{
+  background-color: gray;
+  background-image: url('https://cdn.discordapp.com/attachments/1002630495395389512/1130925860090814606/red-carpet-luxury-hotel.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+} 
+
+.navbar {
+    background-color: #333;
+    text-align: center;
+  }
+  
+  .navbar-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px ;
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .navbar-link:hover {
+    background-color: #555;
+  }
+  
+.h1 {
+  text-align: center;
+  color: aliceblue;
+  background-color:rgba(0, 0, 0, 0.6);
+  border-radius: 15px;
+}
+
+h3{
+  color: aliceblue;
+}
+.card-body{
+  width: 500px;
+  height: 150px;
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 15px;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.btn-acceder{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+}
+
+
